@@ -6,9 +6,10 @@ This repository is a sandbox for all things python. There's no project here, jus
 
 ## Notes
 
-1. Use python virtual environment
-2. Use python 3
-3. ...tbd...
+1. `direnv allow`
+2. Use python virtual environment
+3. Use python 3
+4. ...tbd...
 
 ## Dependencies
 
